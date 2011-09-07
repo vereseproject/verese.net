@@ -3,7 +3,7 @@
 #
 #
 # examples
-# ~$ fab update_code deploy
+# ~$ fab deploy
 
 import os
 from time import strftime
@@ -35,7 +35,10 @@ def backup():
             (env.backup_dir, date)
             )
 
-def deploy(do_backup=True):
+def deploy(do_update_code=True, do_backup=True):
+    if do_update_code:
+        update_code()
+
     if do_backup:
         backup()
 
