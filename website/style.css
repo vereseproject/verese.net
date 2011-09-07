@@ -16,7 +16,7 @@ body {
   height:100%;
   width:100%;
   overflow: hidden;
-  background-color: #D9FFBF;
+  background: -moz-radial-gradient( 50% 25%, circle, #ddd, #aaa );
   text-align:center;
 }
 
@@ -25,18 +25,7 @@ body {
   font-family: "Cantarell", "Trebuchet MS", Lucida Grande, sans-serif;
   font-size: 120px;
   text-align: center;
-  text-shadow: 1px 1px 0 #333333;
-  color: #57BD7E;
-}
-
-#tagline {
-  font-family: "Over the Rainbow", "Trebuchet MS", Lucida Grande, sans-serif;
-  text-align: center;
-  font-size: 40px;
-  -moz-transform: translate(170px, -50px) rotate(-15deg) skew(10deg);
-  -webkit-transform: translate(170px, -50px) rotate(-15deg) skew(10deg);
-  -o-transform: translate(170px, -50px) rotate(-15deg) skew(10deg);
-  -ms-transform: translate(170px, -50px) rotate(-15deg) skew(10deg);
+  color: #777 ;
 }
 
 #footer {
@@ -57,7 +46,8 @@ body {
   padding:15px 30px;
   color:#bed7e1;
   text-shadow:-1px -1px 0 rgba(0,0,0,0.25);
-  font-size:12px;background:#286da3;
+  font: 14px/1.4 helvetica,arial,freesans,clean,sans-serif;
+  font-size:14px;background:#286da3;
   filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#50b7d1',endColorstr='#286da3');
   background:-webkit-gradient(linear,left top,left bottom,from(#50b7d1),to(#286da3));
   background:-moz-linear-gradient(top,#50b7d1,#286da3);
