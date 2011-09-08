@@ -19,7 +19,7 @@
   <a href="http://blog.verese.net" class="signup-button"><strong>Blog</strong> Learn all the latest news <em>now!</em></a>
   <a href="https://github.com/vereseproject/verese" class="signup-button"><strong>Code</strong> Show me da code on <em>Github</em></a>
   <a href="http://beta.verese.net" class="signup-button"><strong>Test</strong>Leave on the edge, testing verese</a>
-  
+
   <div id="note">
     <img src="./arrow.png"></img>mobile friendly!
   </div>
@@ -53,7 +53,7 @@ $(document).ready(function() {
         url: 'http://lists.verese.net/cgi-bin/mailman/subscribe/announce',
         dataType: 'text',
         data: $(this).serialize(),
-        error: callback // this will called
+        error: callback // this will be called, even on success
         })
 
 })
