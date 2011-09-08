@@ -99,7 +99,7 @@ a.menu-button:hover {
     display: inline;
     font-size: 12px;
     margin: 0 -6px 0 0;
-    padding: 14px;
+    padding: 12px;
     position: relative;
     top:-1px;
     width: 200px;
@@ -113,7 +113,7 @@ a.menu-button:hover {
     border: 1px solid #CCCCCC;
     border-radius: 0 5px 5px 0;
     color: #EEEEEE;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
     height: 42px;
     margin: 0;
