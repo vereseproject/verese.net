@@ -9,6 +9,7 @@ html {
   height:100%;
   width:100%;
 }
+
 body {
   padding: 0px;
   margin: 0px;
@@ -28,6 +29,16 @@ body {
   color: #777 ;
 }
 
+#note {
+  font-family: 'Over the Rainbow', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 75%;
+  -webkit-transform: rotate(-30deg); 
+  -moz-transform: rotate(-30deg);	
+}
+
 #footer {
   font-family: "Arial", sans;
   position: absolute;
@@ -42,7 +53,7 @@ body {
 .signup-button {
   text-decoration:none;
   display:inline-block;
-  margin: 30px;
+  margin: 20px;
   padding:15px 30px;
   color:#bed7e1;
   text-shadow:-1px -1px 0 rgba(0,0,0,0.25);
