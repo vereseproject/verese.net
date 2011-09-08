@@ -2,12 +2,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="http://code.jquery.com/jquery-1.6.2.min.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="style.css">
 <link href='http://fonts.googleapis.com/css?family=Over+the+Rainbow' rel='stylesheet' type='text/css'>
 <link rel="shortcut icon" href="verese.ico" />
 <title></title>
 </head>
- 
+
 <body>
 
 <div id="logo">
@@ -23,9 +24,40 @@
   </div>
 </div>
 
+<div id="formwrapper">
+ <form id="emailform" action="#" method="post">
+  <input type="text" name="email" value="Email" onclick="this.value='';"/>
+  <input type="submit" value="submit" />
+ </form>
+</div>
+
 <div id="footer">
   verese project cc-by-sa 2011
 </div>
+
+<script>
+$(document).ready(function() {
+  var callback = function(dataReceived, textStatus, errorThrown) {
+    $('#formwrapper').html("ok!");
+    $('#formwrapper').fadeIn();
+
+  }
+
+  $('#emailform').submit(function(event) {
+     event.preventDefault();
+     $('#formwrapper').fadeOut();
+
+     $.ajax({
+        type: 'POST',
+        url: 'http://lists.verese.net/cgi-bin/mailman/subscribe/announce',
+        dataType: 'text',
+        data: $(this).serialize(),
+        error: callback // this will called
+        })
+
+})
+});
+</script>
 
 <!-- Piwik -->
 <script type="text/javascript">

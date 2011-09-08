@@ -22,6 +22,7 @@ def update_code():
     Update server instance
     """
 
+    local("git pull origin master")
     local("git push origin master")
 
 def backup():
