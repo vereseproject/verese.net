@@ -35,11 +35,11 @@ def backup():
             (env.backup_dir, date)
             )
 
-def deploy(do_update_code=True, do_backup=True):
-    if do_update_code:
+def deploy(do_update_code=True, do_backup=False):
+    if do_update_code == True:
         update_code()
 
-    if do_backup:
+    if do_backup == True:
         backup()
 
     with cd(env.remote_app_dir):
