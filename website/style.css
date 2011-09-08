@@ -6,51 +6,53 @@
 html {
   padding: 0px;
   margin: 0px;
-  height:100%;
-  width:100%;
 }
 
 body {
   padding: 0px;
   margin: 0px;
-  margin-top: 10%;
-  height:100%;
-  width:100%;
-  overflow: hidden;
-  background: -moz-radial-gradient( 50% 25%, circle, #ddd, #aaa );
+  margin-top: 2%;
   text-align:center;
+  background: -moz-radial-gradient( 50% 25%, circle, #ddd, #aaa );
+  height:1000px;
 }
-
 
 #logo {
   font-family: "Cantarell", "Trebuchet MS", Lucida Grande, sans-serif;
   font-size: 120px;
   text-align: center;
-  color: #777 ;
+  color: #666 ;
+  margin-bottom: 20px;
+}
+
+#video-promo {
+  margin-bottom: 50px;
 }
 
 #note {
   font-family: 'Over the Rainbow', cursive;
   font-size: 20px;
   position: relative;
+  width: 300px;
   top: -50px;
-  left: 25%;
+  left: 66%;
   -webkit-transform: rotate(-30deg); 
   -moz-transform: rotate(-30deg);	
 }
 
 #footer {
   font-family: "Arial", sans;
-  position: absolute;
-  bottom: 20px;
+  position: relative;
+  float:right;
+  display:block;
+  bottom: -120px;
   right: 20px;
   height: 20px;
   font-size: 14px;
   color: #333333;
-
 }
 
-.signup-button {
+.menu-button {
   text-decoration:none;
   display:inline-block;
   margin: 20px;
@@ -72,20 +74,20 @@ body {
   box-shadow:0 1px 4px rgba(0,0,0,0.3);
 }
 
-a.signup-button:hover {
+a.menu-button:hover {
   text-decoration:none;
   background:#328fc9;
   background:-webkit-gradient(linear,0% 0,0% 100%,from(#66c7e5),to(#328fc9));
   background:-moz-linear-gradient(-90deg,#66c7e5,#328fc9);
   filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#66c7e5',endColorstr='#328fc9');}
 
-.signup-button strong {
+.menu-button strong {
   display:block;
   color:#fff;
   font-size:20px;
 }
 
-.signup-button em {
+.menu-button em {
   font-weight:bold;
   font-style:normal;
   color:#c8ecff;
@@ -98,7 +100,7 @@ a.signup-button:hover {
     margin: 0 -6px 0 0;
     padding: 12px;
     position: relative;
-    top:-2px;
+    top:-1px;
     width: 200px;
     border: 1px solid #999;
     color: #999;
@@ -116,7 +118,7 @@ a.signup-button:hover {
     margin: 0;
     padding: 10px;
     text-align: center;
-    text-shadow: 0 1px 0 #333333;
+    text-shadow:-1px -1px 0 rgba(0,0,0,0.25);
 }
 
 #submitreply {
