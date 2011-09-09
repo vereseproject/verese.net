@@ -36,7 +36,7 @@
 </div>
 
 <div id="installopenwebapp">
-  <a href="#" class="menu-button"><strong>OpenWebApp</strong>Click here to install the OpenWebApp</a>
+  <a href="" class="menu-button"><strong>OpenWebApp</strong>Click here to install the OpenWebApp</a>
 </div>
 
 <div id="footer">
@@ -66,6 +66,8 @@ $(document).ready(function() {
 })
 });
 
+$("installopenwebapp").click(function(){
+
 function installCallback(result) {  
         // great - display a message, or redirect to a launch page  
 }  
@@ -73,15 +75,14 @@ function installCallback(result) {
 function errorCallback(result) {  
         // whoops - result.code and result.message have details  
 } 
-
-$("installopenwebapp").click(
-      
+  
 navigator.apps.install({  
         url: "http://beta.verese.net/verese.webapp",  
         onsuccess: installCallback,  
         onerror: errorCallback  
 });
-);
+});
+
 </script>
 
 <!-- Piwik -->
