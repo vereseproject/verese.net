@@ -66,22 +66,22 @@ $(document).ready(function() {
 })
 });
 
-$("installopenwebapp").click(
 function installCallback(result) {  
         // great - display a message, or redirect to a launch page  
 }  
       
 function errorCallback(result) {  
         // whoops - result.code and result.message have details  
-}  
+} 
+
+$("installopenwebapp").click(
       
 navigator.apps.install({  
         url: "http://beta.verese.net/verese.webapp",  
         onsuccess: installCallback,  
         onerror: errorCallback  
 });
-
-});
+);
 </script>
 
 <!-- Piwik -->
