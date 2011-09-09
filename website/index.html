@@ -79,7 +79,7 @@ $(document).ready(function() {
     }
 
     function Problem() {
-        $("#installopenwebapp").unbind('click').html("Oups! Something went wrong. Maybe you don't have OpenWebApps Addon?");
+        $("#installopenwebapp").html("Oups! Something went bad. Maybe you don't have OpenWebApps Addon?");
     }
 
     navigator.apps.amInstalled(function(data) {
