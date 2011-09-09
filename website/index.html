@@ -3,9 +3,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script src="http://code.jquery.com/jquery-1.6.2.min.js" type="text/javascript"></script>
+
 <link rel="stylesheet" type="text/css" href="media/style.css">
 <link href='http://fonts.googleapis.com/css?family=Over+the+Rainbow' rel='stylesheet' type='text/css'>
 <link rel="shortcut icon" href="media/verese.ico" />
+
 <title></title>
 </head>
 
@@ -66,16 +68,16 @@ $(document).ready(function() {
 })
 });
 
-$("installopenwebapp").click(
-    function(){
-
+$("#installopenwebapp").click(
+    function(event){
+     event.preventDefault();
      installCallback = function(result) {
       // great - display a message, or redirect to a launch page
-     }
+     };
 
      errorCallback = function(result) {
       // whoops - result.code and result.message have details
-     }
+     };
 
      navigator.apps.install({
         url: "http://beta.verese.net/verese.webapp",
