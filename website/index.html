@@ -2,7 +2,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 <script src="http://code.jquery.com/jquery-1.6.2.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://myapps.mozillalabs.com/jsapi/include.js"></script>
+
 
 <link rel="stylesheet" type="text/css" href="media/style.css">
 <link href='http://fonts.googleapis.com/css?family=Over+the+Rainbow' rel='stylesheet' type='text/css'>
@@ -38,8 +41,8 @@
  </form>
 </div>
 
-<div id="installopenwebapp">
-  <a href="" class="menu-button"><strong>OpenWebApp</strong>Click here to install the OpenWebApp</a>
+<div>
+  <a id="installopenwebapp" class="menu-button"></a>
 </div>
 
 <div id="footer">
@@ -51,7 +54,7 @@ $(document).ready(function() {
   var callback = function(dataReceived, textStatus, errorThrown) {
     $('#formwrapper').html("<div id='submitreply'>Gotcha! Expect some updates soon.</div>");
     $('#formwrapper').fadeIn();
-  }
+  };
 
   $('#emailform').submit(function(event) {
      event.preventDefault();
@@ -65,27 +68,34 @@ $(document).ready(function() {
         error: callback // this will be called, even on success
         })
 
-})
-});
+    });
 
-$("#installopenwebapp").click(
-    function(event){
-     event.preventDefault();
-     installCallback = function(result) {
-      // great - display a message, or redirect to a launch page
-     };
-
-     errorCallback = function(result) {
-      // whoops - result.code and result.message have details
-     };
-
-     navigator.apps.install({
-        url: "http://beta.verese.net/verese.webapp",
-        onsuccess: installCallback,
-        onerror: errorCallback
-     });
+    function izInstalled() {
+        $("#installopenwebapp").unbind('click').html("I'm installed!  You can check me out on your <a href='https://myapps.mozillalabs.com'>dashboard</a>.");
     }
-);
+
+    navigator.apps.amInstalled(function(data) {
+        if (data) {
+            izInstalled();
+        } else {
+            var contents = "<strong>OpenWebApp</strong> Click here to install the OpenWebApp";
+            $("#installopenwebapp").append(contents).click(function() {
+                navigator.apps.install({
+                    url: "http://beta.verese.net/manifest.webapp",
+                    onsuccess: function() {
+                        izInstalled();
+                    },
+                    onerror: function(errObj) {
+                        alert("oh noes!  Couldn't install this bugger: (" + errObj.code + ") - " + errObj.message);
+                    }
+                });
+
+            });
+
+        }
+        $(".upsell").show(400);
+    });
+});
 
 </script>
 
