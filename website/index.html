@@ -71,7 +71,10 @@ $(document).ready(function() {
     });
 
     function izInstalled() {
-        $("#installopenwebapp").unbind('click').html("I'm installed!  You can check me out on your <a href='https://myapps.mozillalabs.com'>dashboard</a>.");
+        $("#installopenwebapp").html("I'm installed! You can check me out on your dashboard.");
+        $("#installopenwebapp").click(function(event) {
+           window.location = "https://myapps.mozillalabs.com";
+        });
     }
 
     function Problem() {
