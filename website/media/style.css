@@ -13,9 +13,9 @@ body {
   margin: 0px;
   margin-top: 2%;
   text-align:center;
-  background: -moz-radial-gradient( 50% 25%, circle, #ddd, #aaa );
-  background: -webkit-radial-gradient( 50% 25%, circle, #ddd, #aaa );
-  height:1000px;
+  background: -moz-radial-gradient( 50% 25%, circle, #fff, #F3F3F3 );
+  background: -webkit-radial-gradient( 50% 25%, circle, #fff, #F3F3F3 );
+  height:1200px;
 }
 
 #logo {
@@ -126,4 +126,11 @@ a.menu-button:hover {
     font-size: 18px;
     text-align: center;
     color: #777;
+}
+
+#emailform input[type="submit"]:hover {
+  text-decoration:none;
+  background:#328fc9;
+  background:-webkit-gradient(linear,0% 0,0% 100%,from(#66c7e5),to(#328fc9));
+  background:-moz-linear-gradient(-90deg,#66c7e5,#328fc9);
 }
