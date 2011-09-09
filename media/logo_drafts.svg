@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5341">
+      <stop
+         style="stop-color:#2a2aa9;stop-opacity:1;"
+         offset="0"
+         id="stop5343" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:0.70588237;"
+         offset="1"
+         id="stop5345" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5316">
+      <stop
+         style="stop-color:#ff2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop5318" />
+      <stop
+         style="stop-color:#ff5858;stop-opacity:1;"
+         offset="1"
+         id="stop5320" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5290">
+      <stop
+         style="stop-color:#ff2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop5292" />
+      <stop
+         style="stop-color:#ff2a2a;stop-opacity:0;"
+         offset="1"
+         id="stop5294" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5266"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5268" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5270" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5341-3">
+      <stop
+         style="stop-color:#2a2aa9;stop-opacity:1;"
+         offset="0"
+         id="stop5343-5" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:0.70588237;"
+         offset="1"
+         id="stop5345-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341"
+       id="linearGradient5430"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341-3"
+       id="linearGradient5432"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341-3-4"
+       id="linearGradient5432-3"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824" />
+    <linearGradient
+       id="linearGradient5341-3-4">
+      <stop
+         style="stop-color:#2a2aa9;stop-opacity:1;"
+         offset="0"
+         id="stop5343-5-7" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:0.70588237;"
+         offset="1"
+         id="stop5345-9-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341-3-5"
+       id="linearGradient5432-2"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824" />
+    <linearGradient
+       id="linearGradient5341-3-5">
+      <stop
+         style="stop-color:#2a2aa9;stop-opacity:1;"
+         offset="0"
+         id="stop5343-5-8" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:0.70588237;"
+         offset="1"
+         id="stop5345-9-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341-3-59"
+       id="linearGradient5432-4"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824" />
+    <linearGradient
+       id="linearGradient5341-3-59">
+      <stop
+         style="stop-color:#2a2aa9;stop-opacity:1;"
+         offset="0"
+         id="stop5343-5-1" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:0.70588237;"
+         offset="1"
+         id="stop5345-9-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341-3-1"
+       id="linearGradient5432-9"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824" />
+    <linearGradient
+       id="linearGradient5341-3-1">
+      <stop
+         style="stop-color:#2a2aa9;stop-opacity:1;"
+         offset="0"
+         id="stop5343-5-3" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:0.70588237;"
+         offset="1"
+         id="stop5345-9-89" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341-3-59-2"
+       id="linearGradient5432-4-4"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824" />
+    <linearGradient
+       id="linearGradient5341-3-59-2">
+      <stop
+         style="stop-color:#2a2aa9;stop-opacity:1;"
+         offset="0"
+         id="stop5343-5-1-3" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:0.70588237;"
+         offset="1"
+         id="stop5345-9-5-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341-3-1-9"
+       id="linearGradient5432-9-7"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824" />
+    <linearGradient
+       id="linearGradient5341-3-1-9">
+      <stop
+         style="stop-color:#2a2aa9;stop-opacity:1;"
+         offset="0"
+         id="stop5343-5-3-9" />
+      <stop
+         style="stop-color:#2a2aff;stop-opacity:0.70588237;"
+         offset="1"
+         id="stop5345-9-89-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5341-3-1-9"
+       id="linearGradient5757"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.53302"
+       y1="795.78345"
+       x2="-540.43158"
+       y2="165.44824"
+       gradientTransform="translate(2787.9264,2280.5878)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="1168.5702"
+     inkscape:cy="-2436.5069"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(13.928936,0,0,13.928936,881.5996,-3205.7535)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot2987" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:72px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3786"><rect
+           id="rect3788"
+           width="359.61432"
+           height="356.58386"
+           x="506.08643"
+           y="248.28076"
+           style="font-size:72px" /></flowRegion><flowPara
+         id="flowPara3790"></flowPara></flowRoot>    <g
+       id="g5418"
+       transform="translate(323.1772,-128.57143)">
+      <g
+         transform="translate(0,1022.8568)"
+         id="g5332">
+        <rect
+           style="fill:url(#linearGradient5430);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3810"
+           width="464.67017"
+           height="464.67017"
+           x="-605.08136"
+           y="335.15387"
+           ry="35.08234" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3792"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(8.2103323,0,0,8.2103323,-3907.6297,-1981.2957)"><flowRegion
+             id="flowRegion3794"><rect
+               id="rect3796"
+               width="396.98996"
+               height="541.44177"
+               x="398.00009"
+               y="210.90511"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara3798"
+             style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">v</flowPara></flowRoot>      </g>
+      <flowRoot
+         transform="matrix(12.79009,0,0,12.79009,805.53935,-3865.069)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5324"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5326"><rect
+             style="fill:#999999"
+             y="407.88486"
+             x="-70.710678"
+             height="456.58896"
+             width="840.4469"
+             id="rect5328" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           id="flowPara5330">erese</flowPara></flowRoot>    </g>
+    <g
+       id="g5406"
+       transform="translate(-1119.2515,-371.82222)">
+      <g
+         transform="translate(1442.4287,1951.7165)"
+         id="g5332-7">
+        <rect
+           style="fill:url(#linearGradient5432);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3810-0"
+           width="464.67017"
+           height="464.67017"
+           x="-605.08136"
+           y="335.15387"
+           ry="35.08234" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3792-7"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(8.2103323,0,0,8.2103323,-4027.6297,-1981.2957)"><flowRegion
+             id="flowRegion3794-0"><rect
+               id="rect3796-5"
+               width="396.98996"
+               height="541.44177"
+               x="398.00009"
+               y="210.90511"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara3798-7"
+             style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">v</flowPara></flowRoot>      </g>
+      <flowRoot
+         transform="matrix(12.79009,0,0,12.79009,2247.968,-2936.2094)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5324-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5326-8"><rect
+             style="fill:#999999"
+             y="407.88486"
+             x="-70.710678"
+             height="456.58896"
+             width="840.4469"
+             id="rect5328-2" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           id="flowPara5330-5">erese</flowPara></flowRoot>    </g>
+    <g
+       id="g5406-1"
+       transform="translate(-1119.2515,999.39589)">
+      <g
+         transform="translate(1442.4287,1951.7165)"
+         id="g5332-7-3">
+        <rect
+           style="fill:url(#linearGradient5432-3);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3810-0-5"
+           width="464.67017"
+           height="464.67017"
+           x="-605.08136"
+           y="335.15387"
+           ry="35.08234" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3792-7-9"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(8.2103323,0,0,8.2103323,-4181.9154,-1807.01)"><flowRegion
+             id="flowRegion3794-0-5"><rect
+               id="rect3796-5-8"
+               width="396.98996"
+               height="541.44177"
+               x="398.00009"
+               y="210.90511"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara3798-7-1"
+             style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">v</flowPara></flowRoot>      </g>
+      <flowRoot
+         transform="matrix(12.79009,0,0,12.79009,2247.968,-2936.2094)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5324-8-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5326-8-2"><rect
+             style="fill:#999999"
+             y="407.88486"
+             x="-70.710678"
+             height="456.58896"
+             width="840.4469"
+             id="rect5328-2-8" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           id="flowPara5330-5-6">erese</flowPara></flowRoot>    </g>
+    <g
+       id="g5406-4"
+       transform="translate(-1119.2515,1685.005)">
+      <g
+         transform="translate(1442.4287,1951.7165)"
+         id="g5332-7-7">
+        <rect
+           style="fill:url(#linearGradient5432-2);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3810-0-6"
+           width="464.67017"
+           height="464.67017"
+           x="-605.08136"
+           y="335.15387"
+           ry="35.08234" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3792-7-6"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(4.7932113,0,0,4.7932113,-2462.9421,-896.48634)"><flowRegion
+             id="flowRegion3794-0-8"><rect
+               id="rect3796-5-5"
+               width="396.98996"
+               height="541.44177"
+               x="398.00009"
+               y="210.90511"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara3798-7-6"
+             style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">v</flowPara></flowRoot>      </g>
+      <flowRoot
+         transform="matrix(12.79009,0,0,12.79009,2247.968,-2936.2094)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5324-8-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5326-8-1"><rect
+             style="fill:#999999"
+             y="407.88486"
+             x="-70.710678"
+             height="456.58896"
+             width="840.4469"
+             id="rect5328-2-2" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           id="flowPara5330-5-2">erese</flowPara></flowRoot>    </g>
+    <g
+       id="g5406-0"
+       transform="translate(-1119.2515,2370.6139)">
+      <g
+         transform="translate(1442.4287,1951.7165)"
+         id="g5332-7-71">
+        <rect
+           style="fill:url(#linearGradient5432-4);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3810-0-2"
+           width="464.67017"
+           height="464.67017"
+           x="-605.08136"
+           y="335.15387"
+           ry="35.08234" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3792-7-2"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(4.8362531,-1.8581401,1.8581401,4.8362531,-3003.3347,-79.610759)"><flowRegion
+             id="flowRegion3794-0-1"><rect
+               id="rect3796-5-3"
+               width="396.98996"
+               height="541.44177"
+               x="398.00009"
+               y="210.90511"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara3798-7-3"
+             style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">v</flowPara></flowRoot>      </g>
+      <flowRoot
+         transform="matrix(12.79009,0,0,12.79009,2247.968,-2936.2094)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5324-8-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5326-8-19"><rect
+             style="fill:#999999"
+             y="407.88486"
+             x="-70.710678"
+             height="456.58896"
+             width="840.4469"
+             id="rect5328-2-7" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           id="flowPara5330-5-9">erese</flowPara></flowRoot>    </g>
+    <g
+       id="g5406-9"
+       transform="translate(-1119.2515,313.7866)">
+      <g
+         transform="translate(1442.4287,1951.7165)"
+         id="g5332-7-6">
+        <rect
+           style="fill:url(#linearGradient5432-9);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3810-0-67"
+           width="464.67017"
+           height="464.67017"
+           x="-605.08136"
+           y="335.15387"
+           ry="35.08234" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3792-7-97"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(6.1929958,0,0,6.1929958,-2993.3215,-1246.5756)"><flowRegion
+             id="flowRegion3794-0-9"><rect
+               id="rect3796-5-2"
+               width="396.98996"
+               height="541.44177"
+               x="398.00009"
+               y="210.90511"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara3798-7-36"
+             style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL">v</flowPara></flowRoot>      </g>
+      <flowRoot
+         transform="matrix(12.79009,0,0,12.79009,2247.968,-2936.2094)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5324-8-37"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5326-8-25"><rect
+             style="fill:#999999"
+             y="407.88486"
+             x="-70.710678"
+             height="456.58896"
+             width="840.4469"
+             id="rect5328-2-4" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           id="flowPara5330-5-5">erese</flowPara></flowRoot>    </g>
+    <g
+       id="g5406-0-2"
+       transform="translate(-1130.8966,3156.9811)">
+      <g
+         transform="translate(1442.4287,1951.7165)"
+         id="g5332-7-71-1">
+        <rect
+           style="fill:url(#linearGradient5432-4-4);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3810-0-2-3"
+           width="464.67017"
+           height="464.67017"
+           x="-605.08136"
+           y="335.15387"
+           ry="35.08234" />
+        <g
+           transform="matrix(5.2565051,-2.0196054,2.0196054,5.2565051,-3237.4891,-143.72359)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot3792-7-2-3">
+          <path
+             d="m 453.02736,317.39519 c -4.08428,12.25193 -9.885,24.75108 -14.58895,34.92707 l -12.096,0 c -4.70403,-10.17599 -9.60002,-21.69598 -14.688,-34.56 -13.06147,-32.87545 -16.76962,-52.63245 -13.30432,-75.40894 l 15.41794,1.35197 c -3.40362,15.06058 -2.74726,21.05908 3.21438,48.85697 1.63198,5.28006 3.31198,10.56005 5.04,15.84 1.82397,5.18404 3.64797,10.22404 5.472,15.12 1.82397,4.89603 3.55196,9.26402 5.184,13.104 1.63196,-3.83998 3.65052,-8.16859 5.32515,-13.11771 0.92313,-2.72818 1.7394,-4.73976 3.11223,-10.06028 1.79638,-6.70321 1.87259,-8.57223 2.37395,-12.79823 l 14.38693,0.65691"
+             style="font-size:144px;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="path5688"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccsccc" />
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(21.82152,0,0,21.82152,2899.5572,-7021.6826)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5324-8-3-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5326-8-19-3"><rect
+             style="fill:#999999"
+             y="407.88486"
+             x="-70.710678"
+             height="456.58896"
+             width="840.4469"
+             id="rect5328-2-7-4" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-0.0709548px;fill:#b3b3b3;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           id="flowPara5330-5-9-2">erese</flowPara></flowRoot>    </g>
+    <g
+       id="g5406-9-1"
+       transform="translate(1345.4977,328.87126)">
+      <g
+         transform="translate(1442.4287,1951.7165)"
+         id="g5332-7-6-8">
+        <path
+           style="fill:url(#linearGradient5757);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 2217.9375,2615.75 c -19.4356,0 -35.0937,15.6269 -35.0937,35.0625 l 0,394.5313 c 0,19.4356 15.6581,35.0624 35.0937,35.0624 l 220.9687,0 -121.5624,-329.7187 -49.2188,-5.2187 0,-34.8438 197.25,0 0,34.8438 -42.6562,2.5937 c -4.9352,0.5809 -8.8785,2.7577 -11.7813,6.5313 -2.9031,3.7742 -3.4606,8.1278 -1.7187,13.0624 l 99.7187,279.125 109.7187,-279.125 c 2.0318,-4.6443 1.7373,-8.8508 -0.875,-12.625 -2.613,-4.0637 -6.3777,-6.3877 -11.3124,-6.9687 l -40.0626,-2.5937 0,-34.8438 81.0938,0 0,-59.8125 c 0,-19.4356 -15.6269,-35.0625 -35.0625,-35.0625 z"
+           transform="translate(-2787.9264,-2280.5878)"
+           id="rect3810-0-67-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssssccccccccccccccccsss" />
+      </g>
+      <flowRoot
+         transform="matrix(12.79009,0,0,12.79009,2187.968,-2936.2094)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5324-8-37-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5326-8-25-4"><rect
+             style="fill:#999999"
+             y="407.88486"
+             x="-70.710678"
+             height="456.58896"
+             width="840.4469"
+             id="rect5328-2-4-2" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           id="flowPara5330-5-5-7">erese</flowPara></flowRoot>    </g>
+  </g>
+</svg>

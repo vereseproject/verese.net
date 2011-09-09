@@ -36,6 +36,10 @@
  </form>
 </div>
 
+<div id="installopenwebapp">
+  <a href="#" class="menu-button"><strong>OpenWebApp</strong>Click here to install the OpenWebApp</a>
+</div>
+
 <div id="footer">
   γράφτα! verese project cc-by-sa 2011
 </div>
@@ -61,6 +65,23 @@ $(document).ready(function() {
 
 })
 });
+
+function installCallback(result) {  
+        // great - display a message, or redirect to a launch page  
+}  
+      
+function errorCallback(result) {  
+        // whoops - result.code and result.message have details  
+} 
+
+$("installopenwebapp").click(
+      
+navigator.apps.install({  
+        url: "http://beta.verese.net/verese.webapp",  
+        onsuccess: installCallback,  
+        onerror: errorCallback  
+});
+);
 </script>
 
 <!-- Piwik -->
