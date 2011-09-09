@@ -81,7 +81,7 @@ $(document).ready(function() {
             var contents = "<strong>OpenWebApp</strong> Click here to install the OpenWebApp";
             $("#installopenwebapp").append(contents).click(function() {
                 navigator.apps.install({
-                    url: "http://beta.verese.net/manifest.webapp",
+                    url: "http://beta.verese.net/verese.webapp",
                     onsuccess: function() {
                         izInstalled();
                     },
