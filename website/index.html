@@ -37,7 +37,7 @@
 
 <div id="formwrapper">
  <form id="emailform" action="#" method="post">
-  <input type="text" name="email" value="Your email" onclick="this.value='';"/>
+  <input type="text" name="email" id="emailfield" value="Your email" onclick="this.value='';"/>
   <input type="submit" value="Signup for updates" />
  </form>
 </div>
@@ -59,6 +59,14 @@ $(document).ready(function() {
 
   $('#emailform').submit(function(event) {
      event.preventDefault();
+    email_value = $("#emailfield").val()
+    var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+
+    if ( email_value == '' || ! emailReg.test(email_value) ){
+       $("#emailfield").val("");
+       $("#emailfield").focus();
+    }
+    else {
      $('#formwrapper').fadeOut();
 
      $.ajax({
@@ -68,7 +76,7 @@ $(document).ready(function() {
         data: $(this).serialize(),
         error: callback // this will be called, even on success
         })
-
+    }
     });
 
     function izInstalled() {
