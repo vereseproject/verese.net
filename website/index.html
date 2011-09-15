@@ -44,6 +44,8 @@
 
 <div>
   <a id="installopenwebapp" class="menu-button"></a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="vereseproject">Tweet</a>
+  <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 </div>
 
 <div id="footer">
@@ -86,7 +88,7 @@ $(document).ready(function() {
         if (data) {
             izInstalled();
         } else {
-            var contents = "<strong>OpenWebApp</strong> Click here to install the OpenWebApp";
+            var contents = "<strong>OpenWebApp</strong> Click here to install";
             $("#installopenwebapp").append(contents).click(function() {
                 navigator.apps.install({
                     url: "http://beta.verese.net/verese.webapp",
