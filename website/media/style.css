@@ -27,7 +27,9 @@ body {
 }
 
 #video-promo {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
+  text-align:center !important;
+  width: 100%;
 }
 
 #note {
