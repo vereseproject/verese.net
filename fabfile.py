@@ -11,9 +11,8 @@ from time import strftime
 from fabric.api import env, run, local, cd
 
 env.user = "verese"
-env.hosts = ["beta.verese.net:2222"]
+env.hosts = ["verese.net:2222"]
 env.backup_dir = "/home/verese/backup/verese.net"
-env.remote_repo_dir = "/home/verese/repositories/verese.net.git"
 env.remote_app_dir = "/home/verese/public_html/"
 
 def update_code():
@@ -24,6 +23,8 @@ def update_code():
 
     local("git pull origin master")
     local("git push origin master")
+    with cd(env.remote_app_dir):
+        run("git pull origin master")
 
 def backup():
     """
