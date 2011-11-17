@@ -29,7 +29,8 @@ body {
 #video-promo {
   margin-bottom: 20px;
   text-align:center !important;
-  width: 100%;
+  width: 600px;
+  margin: 0 auto;
 }
 
 #note {
@@ -39,8 +40,8 @@ body {
   width: 300px;
   top: -50px;
   left: 66%;
-  -webkit-transform: rotate(-30deg); 
-  -moz-transform: rotate(-30deg);	
+  -webkit-transform: rotate(-30deg);
+  -moz-transform: rotate(-30deg);
 }
 
 #footer {
